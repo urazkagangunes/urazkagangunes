@@ -5,7 +5,7 @@
 
 <p align="left">I'm Uraz Kağan GÜNEŞ, let me tell you a little about myself, I was born on 07.04.1999. I live in Istanbul. I graduated from Altınbaş University Software Engineering with a GPA of 3.10. I started my master's degree in Information Technologies in the Department of Computer Engineering.</p>
 
-<p align="left">📫 How to reach me **urazkagangunes@gmail.com</p>
+<p align="left">📫 How to reach me **urazkagangunes@gmail.com**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
