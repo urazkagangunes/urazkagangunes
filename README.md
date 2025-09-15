@@ -3,7 +3,13 @@
 
 
 
-<p align="left">I'm Uraz Kağan GÜNEŞ, let me tell you a little about myself, I was born on 07.04.1999. I live in Istanbul. I graduated from Altınbaş University Software Engineering with a GPA of 3.10. I started my master's degree in Information Technologies in the Department of Computer Engineering.</p>
+<p align="left">I am Uraz Kağan Güneş, a Software Engineer and researcher with a strong background in full-stack development and artificial intelligence. I 
+completed my Master’s degree in Computer Engineering at Altınbaş University, where my thesis focused on pneumonia detection using 
+deep learning. Building on this foundation, I will begin my Ph.D. in Computer Science at Özyeğin University, with research interests centered 
+on Natural Language Processing (NLP) and advanced machine learning methods. 
+In parallel with my academic journey, I have strengthened my expertise in C# and .NET Core, focusing on API design, scalable architectures, 
+and secure application development. My combined experience in software engineering and AI research allows me to bridge practical 
+development with cutting-edge research, contributing to impactful and innovative projects.</p>
 
 <p align="left">📫 How to reach me: urazkagangunes@gmail.com</p>
 
